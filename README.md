@@ -1,1 +1,1 @@
-# Simple script to automatocically create Latex tables from a csv file
+ Simple script to automatocically create Latex tables from a csv file
